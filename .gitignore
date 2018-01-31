@@ -1,0 +1,7 @@
+*~
+*.fasl
+\#*
+.\#*
+.*
+!.gitignore
+test/jenkins
